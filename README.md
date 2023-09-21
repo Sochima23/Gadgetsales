@@ -14,3 +14,25 @@
 sold? And why is the result so?
 
 #Solution
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(45).png)
+
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(44).png)
+
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(43).png)
+
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(42).png)
+
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(41).png)
+
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(40).png)
+
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(39).png)
+
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(38).png)
+
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(37).png)
+
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(36).png)
+
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(46).png)
+
