@@ -5,7 +5,7 @@ analyst and has been looking for one to help him answer some crucial questions a
 business.
 This analysis will aid Mr Chinedu in answering essential questions about his business
 ## Data Source
-The data was retrieved from a database called Gadgetsales.sql
+The data was retrieved from a database called [Gadgetsales.sql](https://github.com/Sochima23/Gadgetsales/blob/main/GadgetSales.sql)
 ## Problem 
 1. Which device had the most sales by quantity?
 2. Which device had the lowest sales by quantity?
