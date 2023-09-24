@@ -1,9 +1,12 @@
 # Gadgetsales
 ## Introduction
+Mr. Chinedu has a shop where he sells different kinds of gadgets. He heard I am a data 
+analyst and has been looking for one to help him answer some crucial questions about his
+business.
 This analysis will aid Mr Chinedu in answering essential questions about his business
 ## Data Source
 The data was retrieved from a database called Gadgetsales.sql
-## Problem
+## Problem 
 1. Which device had the most sales by quantity?
 2. Which device had the lowest sales by quantity?
 3. Top 3 most expensive gadgets.
@@ -16,7 +19,7 @@ The data was retrieved from a database called Gadgetsales.sql
 10. Between the cheapest device and the most expensive device, which had more quantity 
 sold? And why is the result so?
 
-#Solution
+## Solution
 1. The black Pro Hero 10 was the most sold device.
 ![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(45).png)
 
@@ -27,7 +30,7 @@ sold? And why is the result so?
 ![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(43).png)
 
 4. Mr Chinedu's top 3 customers by amount spent were Megan Smith, Andrew Chen and Tommy Baker
-![]()
+![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(52).png)
 
 5. On the 12th of February, 2022, the least number of gadgets were sold
 ![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(41).png)
@@ -44,8 +47,12 @@ sold? And why is the result so?
 9. iPhone 13 was purchased mostly by Noah Kim
 ![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(37).png)
 
-10. 
-![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(36).png)
+10. |Cheapest Device       |      Most Expensive Device    |
+    |--------------------  | ----------------------------  |
+    |![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(36).png)| ![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(46).png)|
+    Amazon Echo Dot                                                               |  Canon EOS R6  
+It was observed that the demand for the Canon EOS R6 was high, even though the cost was over $2400. This is most likely due to its features. 
 
-![](https://github.com/Sochima23/Gadgetsales/blob/main/Screenshot%20(46).png)
+## Conclusion
+The analysis resulted in amazing insights on Mr Chinedu's business. It will enable him make good decisions for his business, such as the best devices to buy in bulk and the ones that should be purchased in fewer quantities. 
 
